@@ -3,7 +3,7 @@
 ## C++11 features
 - thread stuff, concurrency, locking stuff
 - smart pointers, chrono, hashmaps
-- for each, nullptr, lambdas, auto, move() constructor
+- for each, nullptr, lambdas, auto, move() constructor, lval/rval?
 
 ## Multithreading examples
 - mutex, condition_variable, atomic, futures, unique_lock, lock_guard, threads
